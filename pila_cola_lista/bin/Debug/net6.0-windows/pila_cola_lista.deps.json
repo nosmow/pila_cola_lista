@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "pila_cola_lista/1.0.0": {
+        "runtime": {
+          "pila_cola_lista.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "pila_cola_lista/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

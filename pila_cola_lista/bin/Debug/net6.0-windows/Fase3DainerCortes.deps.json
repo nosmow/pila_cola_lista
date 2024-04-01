@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Fase3DainerCortes/1.0.0": {
+        "runtime": {
+          "Fase3DainerCortes.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Fase3DainerCortes/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
